@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hello there!
 
-## I am the 62nd DCGorilla
+#### I am an experimental astro particle physicist.
+
+#### I am a graduate student at The Ohio State University.
+
+#### My reearch is in high energy cosmic rays and ultra high energy neutrinos. 
 <!--
 **DCGorilla62/DCGorilla62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

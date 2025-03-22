@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  jekyll:
+    build: .
+    container_name: jekyll_site
+    volumes:
+      - ./:/srv/jekyll
+      - bundle_cache:/usr/local/bundle  # <--- Add this to cache gems
+    ports:
+      - "4000:4000"
+    command: jekyll serve --watch --force_polling --host 0.0.0.0
+
+volumes:
+  bundle_cache:  # <--- Define volume

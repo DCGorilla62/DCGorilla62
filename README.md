@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **DCGorilla62/DCGorilla62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Dennis H. Calderón
+
+- PhD student at The Ohio State University
+- Experimental Astroparticle Physics
+- [Personal Site](https://www.dhcalderon.com)

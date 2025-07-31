@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ## Dennis H. Calderón
 
-- PhD student at The Ohio State University
+### PhD Candidate at The Ohio State University
 - Experimental Astroparticle Physics
+- Working on the High Energy Light Isotope eXperiment ([HELIX](http://helix.uchicago.edu/)) project. 
 - [Personal Site](https://www.dhcalderon.com)
+- [CV](https://www.dhcalderon.com/documents/CalderonCV.pdf)
